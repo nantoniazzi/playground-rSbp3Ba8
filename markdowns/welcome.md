@@ -100,4 +100,4 @@ new Vue({
 
 # Step 4: Now, run the code and see the final output.
 
-@[Sample Vue.js App]({"stubs": ["main.js", "index.html", "components/Home.vue", "components/About.vue", "components/Contact.vue"], "command": "/bin/bash run.sh"})
+@[Sample Vue.js App]({"stubs": ["run.sh", "main.js", "index.html", "components/Home.vue", "components/About.vue", "components/Contact.vue"], "command": "/bin/bash run.sh"})
